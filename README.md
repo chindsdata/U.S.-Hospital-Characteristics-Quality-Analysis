@@ -105,14 +105,45 @@ The Veterans Health Administration had an average rating of **4.1 stars** across
 
 ## Visualizations
 
-The Excel workbook contains visualizations examining:
+### Percentage of 4–5 Star Hospitals by State
 
-1. Percentage of 4–5 Star Hospitals by State
-2. Distribution of Hospital Overall Ratings
-3. Average Hospital Rating by Hospital Ownership
-4. Percentage of Hospitals Providing Emergency Services by Hospital Type
-5. Top 10 States by Number of Hospitals
-6. Average Hospital Rating by State
+![Percentage of 4–5 Star Hospitals by State](visualizations/high_rating_by_state.png)
+
+*States with fewer than 20 hospitals were excluded from this comparison.*
+
+---
+
+### Distribution of Hospital Overall Ratings
+
+![Distribution of Hospital Overall Ratings](visualizations/rating_distribution.png)
+
+---
+
+### Average Hospital Rating by Hospital Ownership
+
+![Average Hospital Rating by Hospital Ownership](visualizations/average_rating_by_ownership.png)
+
+*Ownership categories with fewer than 50 hospitals were excluded from this comparison.*
+
+---
+
+### Percentage of Hospitals Providing Emergency Services by Hospital Type
+
+![Percentage of Hospitals Providing Emergency Services by Hospital Type](visualizations/emergency_services.png)
+
+---
+
+### Top 10 States by Number of Hospitals
+
+![Top 10 States by Number of Hospitals](visualizations/hospitals_by_state.png)
+
+---
+
+### Average Hospital Rating by State
+
+![Average Hospital Rating by State](visualizations/average_rating_by_state.png)
+
+*States with fewer than 20 hospitals were excluded from this comparison.*
 
 ---
 
