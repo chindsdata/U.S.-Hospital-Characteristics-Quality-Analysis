@@ -20,9 +20,11 @@ The goal of this project was to practice healthcare data analysis, SQL querying,
 
 **CMS Hospital General Information**
 
-The analysis uses a downloaded version of the CMS Hospital General Information dataset containing **2,917 hospital records**.
+This project uses a downloaded version of the CMS Hospital General Information dataset. The specific file analyzed for this project contained **2,917 hospital records**.
 
-Source: CMS Hospital General Information
+The CMS dataset includes information such as hospital location, hospital type, ownership, emergency services, and overall hospital rating.
+
+Source: [CMS Hospital General Information](https://data.cms.gov/provider-data/dataset/xubh-q36u)
 
 ---
 
@@ -70,13 +72,14 @@ For hospital ownership comparisons, ownership categories with fewer than **50 ho
 
 The dataset contains **2,917 hospitals** across the United States.
 
-California had the largest number of hospitals represented in the dataset with **269**, followed by Texas with **202** and Florida with **162**.
-
+California had the largest number of hospitals represented in the analyzed file with 269, followed by Texas with 202 and Florida with 162.
 ### Emergency Services
 
 A total of **2,777 hospitals**, or approximately **95.2%**, reported providing emergency services.
 
 Emergency-service availability was above 94% across each of the three hospital types represented in the analysis.
+
+---
 
 ### Hospital Ratings
 
